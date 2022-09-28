@@ -1,0 +1,1 @@
+void fonctionReception(void * p);
